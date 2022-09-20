@@ -20,6 +20,7 @@ RUN apk add --no-cache \
 		sshpass \
 		tar \
 		curl \
+		docker \
 		git \
 		lastpass-cli \
 		rsync \
